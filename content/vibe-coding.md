@@ -1,3 +1,7 @@
+---
+title: "Vibe Coding"
+---
+
 # Vibe Coding
 
 **Summary**: Vibe coding can produce great-looking software quickly, but "production grade" requires much more than code quality — and the closer you are to delegating the thinking to AI, the more fragile the result.

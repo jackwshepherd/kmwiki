@@ -1,3 +1,7 @@
+---
+title: "Wiki Index"
+---
+
 # Wiki Index
 
 **Summary**: Catalog of all wiki pages — one-line description per page, organized by topic. Read this first when answering any query.

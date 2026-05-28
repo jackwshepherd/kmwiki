@@ -1,3 +1,7 @@
+---
+title: "Legal Tech Adoption"
+---
+
 # Legal Tech Adoption
 
 **Summary**: Technology is useless if nobody uses it. Getting legal tech adopted requires understanding why people should care (pull factors), what compels them to act (push factors), building trust, and communicating in terms of user value — not tool features.

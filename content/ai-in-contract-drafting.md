@@ -1,3 +1,7 @@
+---
+title: "AI in Contract Drafting"
+---
+
 # AI in Contract Drafting
 
 **Summary**: Models have improved since 2023 and substantive holes in AI-generated drafts are fewer — but "fewer holes" still means holes, and the core issues around provenance, consistency, and knowledge capture remain unresolved.

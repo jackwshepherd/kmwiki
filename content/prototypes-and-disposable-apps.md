@@ -1,3 +1,7 @@
+---
+title: "Prototypes and Disposable Apps"
+---
+
 # Prototypes and Disposable Apps
 
 **Summary**: Production-grade standards only matter if the software gets into the real world with dependent users. Prototypes and disposable apps are the two cases where vibe coding genuinely shines — with caveats.

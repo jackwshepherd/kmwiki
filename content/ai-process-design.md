@@ -1,3 +1,7 @@
+---
+title: "AI and Process Design"
+---
+
 # AI and Process Design
 
 **Summary**: AI is a building block within a process, not a replacement for a process. The right model of AI-human collaboration depends on the goal, context, accuracy requirements, and whether the cognitive work of doing the task has intrinsic value.

@@ -1,3 +1,7 @@
+---
+title: "Knowledge Management in Law"
+---
+
 # Knowledge Management in Law
 
 **Summary**: KM in law firms sits at the intersection of process design, technology, and culture — and the biggest barrier is often simply that lawyers don't think to share knowledge, because sharing isn't built into how work is done.

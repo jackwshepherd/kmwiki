@@ -1,3 +1,7 @@
+---
+title: "AI Copilots in Legal Tools"
+---
+
 # AI Copilots in Legal Tools
 
 **Summary**: Every legal tech vendor now has an AI copilot. Having one everywhere doesn't mean it's useful everywhere. The opportunity is in being selective, deliberate, and focused on the tasks that actually matter.

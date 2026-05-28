@@ -1,3 +1,7 @@
+---
+title: "Transaction Management"
+---
+
 # Transaction Management
 
 **Summary**: Transaction management tools shift legal deal work from unstructured to structured processes — and in doing so, create structured data and natural nudges to knowledge sharing that unstructured (Word-based) approaches cannot.

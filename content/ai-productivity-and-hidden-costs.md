@@ -1,3 +1,7 @@
+---
+title: "AI Productivity and Hidden Costs"
+---
+
 # AI Productivity and Hidden Costs
 
 **Summary**: AI brings genuine value, but also its own baggage — an obsession spiral, needless improvement loops, and the risk of replacing activities (like writing) that are themselves valuable thinking tools.

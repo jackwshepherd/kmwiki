@@ -1,3 +1,7 @@
+---
+title: "Agentic Search"
+---
+
 # Agentic Search
 
 **Summary**: Agentic search is a genuine and exciting addition to the legal knowledge toolkit — but the hype has overshot the reality. Curation still matters. Categorisation still matters. Learning from reading still matters. It is one route, not the only route.

@@ -1,3 +1,7 @@
+---
+title: "Legal Tech Strategy"
+---
+
 # Legal Tech Strategy
 
 **Summary**: The most common failure mode in legal tech is starting with the technology instead of the problem. Process before tech, user research before deployment, and honest measurement before ROI claims.
